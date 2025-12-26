@@ -13,7 +13,7 @@
 </div>
 
 ## 🚀 About Me
-I am an Electrical & Electronics Engineering student with an insatiable curiosity for how machines "see" and "think." My journey started with code, but my passion lies in **bridging software with the real world** through Robotics and IoT.
+I am an Electrical & Electronics Engineering student with a passion on computers. My journey started with code, but my passion lies in **bridging software with the real world** through Robotics and IoT.
 
 * 🔭 **Currently researching:** Vision Transformers (ViT) and their applications.
 * 🌱 **Currently learning:** Advanced Robotics Control & Embedded Systems.
