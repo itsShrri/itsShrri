@@ -50,7 +50,7 @@ I love working with tools that help me build smarter systems.
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Vision Transformer Research** | Analyzing performance of ViT models on [Specific Dataset]. | PyTorch, Python |
+| **Vision Transformer Research** | Analyzing performance of ViT models on DNA Paint dataset. | PyTorch, Python |
 | **ExoSkeleton** | Building ExoSkeleton Arm for Parkinson's Disease Patients | Python, ROS |
 
 ## 🌏 Languages
