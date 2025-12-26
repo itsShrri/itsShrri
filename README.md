@@ -1,5 +1,20 @@
 ## Hi there 👋
+---
+I am Shrri, an undergraduate student at Nanyang Technological University, Singapore.
 
+- Electrical & Electronics Engineering
+- Research: Vision Transformers(ViT)
+
+## Projects
+---
+
+
+## Skills
+---
+- Programming Languages: Python, C, C++
+- Frameworks and Libraries: PyTorch, Pandas, NumPy, Scikit-learn
+- AI & Machine Learning: Neural Networks, Computer Vision
+- Languages: English, Mandarin, Malay
 <!--
 **itsShrri/itsShrri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
