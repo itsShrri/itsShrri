@@ -22,7 +22,7 @@ I am an Electrical & Electronics Engineering student with a passion on computers
 ## 🛠️ Tech Stack & Skills
 I love working with tools that help me build smarter systems.
 
-**Languages**
+**Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
