@@ -1,16 +1,13 @@
 ## Hi there 👋
----
 I am Shrri, an undergraduate student at Nanyang Technological University, Singapore.
 
 - Electrical & Electronics Engineering
 - Research: Vision Transformers(ViT)
 
 ## Projects
----
 
 
 ## Skills
----
 - Programming Languages: Python, C, C++
 - Frameworks and Libraries: PyTorch, Pandas, NumPy, Scikit-learn
 - AI & Machine Learning: Neural Networks, Computer Vision
