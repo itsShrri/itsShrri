@@ -5,8 +5,6 @@
   ### 🎓 EEE Undergraduate @ Nanyang Technological University, Singapore
   
   **Exploring the intersection of AI, Robotics, and the Physical World.**
-
-  Open to Internships
   
   ---
   
