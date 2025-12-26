@@ -8,7 +8,7 @@
   
   ---
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Building+Neural+Networks;Analyzing+Vision+Transformers;Hacking+IoT+Devices;Learning+Robotics+Control;Always+Learning+New+Tech!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Building+Neural+Networks;Analyzing+Vision+Transformers;IoT+Devices;Learning+Robotics+Control;Always+Learning+New+Tech!)
 
 </div>
 
