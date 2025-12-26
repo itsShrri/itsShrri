@@ -50,8 +50,7 @@ I love working with tools that help me build smarter systems.
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **Vision Transformer Research** | Analyzing performance of ViT models on [Specific Dataset]. | PyTorch, Python |
-| **IoT Sensor Node** | *[Placeholder]* Collecting data from environment and sending to cloud. | C++, Arduino |
-| **Robotic Arm Control** | *[Placeholder]* Inverse kinematics simulation for a 3-DOF arm. | Python, ROS |
+| **ExoSkeleton** | Building ExoSkeleton Arm for Parkinson's Disease Patients | Python, ROS |
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -66,7 +65,7 @@ I love working with tools that help me build smarter systems.
 ---
 <div align="center">
   <p>Let's connect and discuss Tech! ⚡</p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://linkedin.com/in/shrri">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
