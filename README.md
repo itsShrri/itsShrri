@@ -54,9 +54,9 @@ I love working with tools that help me build smarter systems.
 | **ExoSkeleton** | Building ExoSkeleton Arm for Parkinson's Disease Patients | Python, ROS |
 
 ## 🌏 Languages
-* **English** (Professional)
-* **Mandarin** (Conversational)
-* **Malay** (Conversational)
+* **English** 
+* **Mandarin** 
+* **Malay** 
 
 ---
 <div align="center">
