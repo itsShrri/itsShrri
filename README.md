@@ -53,11 +53,6 @@ I love working with tools that help me build smarter systems.
 | **Vision Transformer Research** | Analyzing performance of ViT models on [Specific Dataset]. | PyTorch, Python |
 | **ExoSkeleton** | Building ExoSkeleton Arm for Parkinson's Disease Patients | Python, ROS |
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itSshrri&show_icons=true&theme=radical" alt="Shrri's Stats" />
-</p>
-
 ## 🌏 Languages
 * **English** (Professional)
 * **Mandarin** (Conversational)
