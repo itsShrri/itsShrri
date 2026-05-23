@@ -8,16 +8,24 @@
   
   ---
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=450&lines=Writing+Embedded+C%2F%2B%2B;Designing+Custom+PCBs;Analyzing+Vision+Transformers;Hacking+with+ESP32+%26+ROS+2)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=450&lines=Writing+Embedded+C%2F%2B%2B;Designing+Custom+PCBs;Analyzing+Vision+Transformers;Advanced+Robotics+Control)
 
 </div>
 
 ## 🚀 About Me
-I am an Electrical & Electronic Engineering student obsessed with making hardware smart. While my roots are in software, my true playground is the intersection of **Edge AI, Embedded Systems, and Custom PCB Architecture**. I build systems that perceive the world through computer vision and interact with it through precise hardware control.
+I am an Electrical & Electronic Engineering student obsessed with making hardware smart. While my roots are in software, my true playground is the intersection of **Edge AI, Embedded Systems, Robotics, and Custom PCB Architecture**. I build systems that perceive the world through computer vision, process data at the edge, and interact with the physical world through precise robotic control.
 
 ---
 
 ## 🛠️ Tech Stack & Domain Expertise
+
+### 🤖 Robotics & Control Systems
+<p>
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Control_Systems-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kinematics_%26_Dynamics-00A86B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Simulation-FF6F00?style=for-the-badge" />
+</p>
 
 ### 💾 Embedded Systems & IoT
 <p>
@@ -26,7 +34,6 @@ I am an Electrical & Electronic Engineering student obsessed with making hardwar
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
 ### 🔌 PCB Design & Hardware
@@ -48,11 +55,20 @@ I am an Electrical & Electronic Engineering student obsessed with making hardwar
 
 ## 🧠 Featured Projects
 
+### 🤖 Robotics
+
+#### **ExoSkeleton Robotic Arm Control**
+*   **Overview:** Designing assistive wearable hardware aimed at improving upper-limb mobility and stability for Parkinson's disease patients.
+*   **Key Focus:** Implementing closed-loop control algorithms and software filtering methods to interpret intentional human movement while suppressing tremors.
+*   **Stack:** `ROS 2` `Python` `Microcontrollers` `Actuators & Sensors`
+
+---
+
 ### 👁️ AI & Computer Vision
 
 #### **Vision Transformer (ViT) Research**
-*   **Overview:** Deep dive into the performance and architectural efficiency of Vision Transformers.
-*   **Key Focus:** Benchmarking and adapting ViT models to handle highly dense and specialized biological imaging datasets (DNA-PAINT).
+*   **Overview:** Deep dive into the performance, attention mechanics, and architectural efficiency of Vision Transformers.
+*   **Key Focus:** Benchmarking and adapting ViT architectures to process and extract features from highly complex and dense biological imaging datasets (DNA-PAINT).
 *   **Stack:** `PyTorch` `Python` `Torchvision` `NumPy`
 
 ---
@@ -60,19 +76,14 @@ I am an Electrical & Electronic Engineering student obsessed with making hardwar
 ### 💾 Embedded Systems & IoT
 
 #### **FocusMorph-AI**
-*   **Overview:** A focus-oriented gamification engine built to track and optimize productivity cycles.
-*   **Key Focus:** Developed a custom telemetry engine to pipe and process real-time application data efficiently.
-*   **Stack:** `Python` `Telemetry Engines` `System Architecture`
-
-#### **ExoSkeleton Robotic Arm Control**
-*   **Overview:** Designing assistive physical tech aimed at improving the quality of life for Parkinson's disease patients.
-*   **Key Focus:** Implementing smooth control loops and signal filtering to translate noisy human intent into steady robotic motion.
-*   **Stack:** `ROS 2` `Python` `Microcontrollers` `Actuators`
+*   **Overview:** A focus-oriented gamification application built to log, visualize, and optimize productivity cycles.
+*   **Key Focus:** Designed and optimized a lightweight telemetry engine to pipe and process system data efficiently without impacting host performance.
+*   **Stack:** `Python` `System Architecture` `Telemetry Engines`
 
 ---
 
 ### 🔌 PCB Design & Hardware (Incoming)
-*   *Currently architectural planning custom micro-controller carrier boards utilizing ESP32-S3/C3 modules, focusing on clean power delivery network (PDN) design and high-speed signal integrity for IoT sensing applications.*
+*   *Currently prototyping custom microcontroller carrier boards utilizing ESP32-S3/C3 chips. Focusing on power delivery network (PDN) design, localized decoupling, and clean high-speed signal integrity for real-time sensor telemetry.*
 
 ---
 
