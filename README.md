@@ -75,10 +75,6 @@ I am an Electrical & Electronic Engineering student obsessed with making hardwar
 
 ### 💾 Embedded Systems & IoT
 
-#### **FocusMorph-AI**
-*   **Overview:** A focus-oriented gamification application built to log, visualize, and optimize productivity cycles.
-*   **Key Focus:** Designed and optimized a lightweight telemetry engine to pipe and process system data efficiently without impacting host performance.
-*   **Stack:** `Python` `System Architecture` `Telemetry Engines`
 
 ---
 
